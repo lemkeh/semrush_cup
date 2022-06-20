@@ -28,3 +28,7 @@ Next two are kinda doubtful (especially last one), but I'd try them:
 
 • Split url by domain and count subdomains and path's parts
 
+
+
+
+And yes, I know it's kinda bad solution, but idc
